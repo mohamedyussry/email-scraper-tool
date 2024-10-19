@@ -1,0 +1,21 @@
+{
+    "en": {
+      "title": "Email Scraper Tool",
+      "filter_placeholder": "Filter by domain (e.g., gmail.com)",
+      "scrape_button": "Scrape Emails",
+      "copy_button": "Copy Emails",
+      "download_button": "Download Emails",
+      "emails_found": "Emails found: ",
+      "no_emails": "No emails found."
+    },
+    "ar": {
+      "title": "أداة استخراج البريد الإلكتروني",
+      "filter_placeholder": "تصفية بالنطاق (مثل gmail.com)",
+      "scrape_button": "استخراج الإيميلات",
+      "copy_button": "نسخ الإيميلات",
+      "download_button": "تحميل الإيميلات",
+      "emails_found": "عدد الإيميلات المستخرجة: ",
+      "no_emails": "لم يتم العثور على إيميلات."
+    }
+  }
+  
